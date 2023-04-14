@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karishuteron
-- 👀 I’m interested in ... WebAssembly.
-- 🌱 I’m currently learning ...　RUST programming.
+- 👀 I’m interested in ... pico/pico w/UE5
+- 🌱 I’m currently learning ...　RUST programming, UnrealEngine
 - 💞️ I’m looking to collaborate on ... None.
 - 📫 How to reach me ...
 
